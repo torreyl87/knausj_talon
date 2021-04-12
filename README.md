@@ -1,11 +1,9 @@
 
-# knausj_talon with Torrey updates
+# knausj_talon with Torrey settings directory
 
 1. Download and install talon - https://talonvoice.com/
 1. cd %APPDATA%/talon
 2. git clone https://github.com/torreyl87/knausj_talon.git
-
-Remember to upload the settings directory
 
 ---
 
