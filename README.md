@@ -1,3 +1,14 @@
+
+# knausj_talon with Torrey updates
+
+1. Download and install talon - https://talonvoice.com/
+1. cd %APPDATA%/talon
+2. git clone https://github.com/torreyl87/knausj_talon.git
+
+Remember to upload the settings directory
+
+---
+
 # knausj_talon
 
 Talon configs for Mac, Windows, and Linux. Very much in progress. This is also intended to work with both Dragon Naturally Speaking and wav2letter.
